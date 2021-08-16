@@ -1,0 +1,28 @@
+{
+  "scriptId": "81",
+  "url": "file:///C:/Experiments/Deno/deno/02f950a6-d13d-4567-b34e-03cdae76cc90$deno$test.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 218,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Deno.<computed>.runTests.disableLog",
+      "ranges": [
+        {
+          "startOffset": 87,
+          "endOffset": 120,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
