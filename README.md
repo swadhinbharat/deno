@@ -21,3 +21,8 @@ rd /s/q coverage & deno test --coverage=coverage && deno coverage coverage
 # in PowerShell - purge folder, run test with coverage and show coverage                      
 Remove-Item -LiteralPath "coverage" -Force -Recurse; deno test --coverage=coverage; deno coverage coverage  
 ```
+
+## docs
+```
+deno test --doc <file>          # test the documentation of file
+```
